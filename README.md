@@ -1,7 +1,3 @@
-Absolutely. For GitHub, I recommend making the README **professional, detailed, but not unnecessarily huge**. It should explain the project, architecture, technologies, methodology, actual results, setup, and project structure.
-
-Below is a README tailored to your **actual completed project and results**.
-
 # Employee Attrition Analysis System
 
 An end-to-end **Employee Attrition Analysis System** developed using **Data Warehousing, Data Mining, Machine Learning, SQLite, Python, and Power BI**.
